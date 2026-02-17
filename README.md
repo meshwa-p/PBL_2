@@ -17,7 +17,6 @@ AI-based screening framework for future experimental validation.
 - Prototype ML demonstration (educational purpose)
 
 ## Repository Structure
-- literature_review → Paper summaries and analysis
 - analysis → Sample ML comparison scripts
 - framework → Conceptual screening architecture
 - AI ALGOS AND SEARCH → different algorithms and searches for learning purpose
